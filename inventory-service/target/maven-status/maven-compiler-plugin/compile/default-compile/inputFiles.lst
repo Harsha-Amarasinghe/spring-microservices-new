@@ -1,6 +1,6 @@
-F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\controller\InventoryController.java
 F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\dto\InventoryResponse.java
-F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\InventoryServiceApplication.java
-F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\model\Inventory.java
-F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\repository\InventoryRepository.java
 F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\service\InventoryService.java
+F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\controller\InventoryController.java
+F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\InventoryServiceApplication.java
+F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\repository\InventoryRepository.java
+F:\Interview Ready\Microservices\product-service\microservices-new\inventory-service\src\main\java\com\example\inventory_service\model\Inventory.java
